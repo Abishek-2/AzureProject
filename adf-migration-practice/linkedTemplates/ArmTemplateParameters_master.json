@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-migration-practice"
+		},
+		"LS_ADLS_Gen2_accountKey": {
+			"value": ""
+		},
+		"LS_SQLServer_OnPrem_password": {
+			"value": ""
+		},
+		"LS_ADLS_Gen2_properties_typeProperties_url": {
+			"value": "https://adlsmigrationpractice.dfs.core.windows.net/"
+		},
+		"LS_SQLServer_OnPrem_properties_typeProperties_server": {
+			"value": "localhost"
+		},
+		"LS_SQLServer_OnPrem_properties_typeProperties_database": {
+			"value": "project"
+		},
+		"LS_SQLServer_OnPrem_properties_typeProperties_userName": {
+			"value": "sa"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
