@@ -1,0 +1,9 @@
+{
+	"name": "adf-migration-practice",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7abc322e-2320-4316-a9ba-0cbbc67e1a9e",
+		"tenantId": "ae9fd371-2a04-407e-b458-06ccf69039ab"
+	}
+}
