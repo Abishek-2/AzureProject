@@ -2,7 +2,7 @@
 	"name": "TRIG_Daily_Migration",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Started",
+		"runtimeState": "Stopped",
 		"pipelines": [
 			{
 				"pipelineReference": {
